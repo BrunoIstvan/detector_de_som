@@ -30,6 +30,8 @@
   
 */
 
+#include <Arduino.h>
+
 //#define DEBUG
 
 #ifdef DEBUG
